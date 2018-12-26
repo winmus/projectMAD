@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.project.aplikasicekberatbadan.TentangActivity"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Menjaga berat badan agar selalu ideal adalah dambaan setiap orang, namun terkadang konsumsi makanan yang sembarangan bisa mengakibatkan berat badan naik tak terkendali. Berikut ini adalah beberapa tips yang dapat membantu menurunkan atau menjaga berat badan tetap ideal :
+
+    Rencanakan ke depan
+    Menjaga berat badan juga membutuhkan perencanaan makan yang baik, bahkan di saat datang ke pesta. Makanan enak yang berlimpah saat pesta mungkin dapat menarik minat, namun ingatlah berat badan yang sudah berhasil dicapai. Solusinya, pergilah ke pesta tidak dengan perut kosong. Makanlah sedikit dan jangan berlama-lama di meja makanan.
+
+    Beri penghargaan
+    Penghargaan kecil penting untuk menjaga motivasi diri setelah mencapai target. Namun daripada memberikan penghargaan berupa makanan, lebih baik berikan pakaian baru dengan ukuran lebih kecil atau perawatan tubuh. Memberi penghargaan diri sendiri bukan harus menguras dompet kok, mandi air hangat, menonton TV, atau jalan-jalan juga sudah merupakan bentuk penghargaan.
+
+    Jaga makanan tetap segar dan menyenangkan
+    Selama menurunkan berat badan, mungkin orang jenuh dengan jenis makanan yang disantap. Untuk membuat makan tetap segar dan menyenangkan, maka cobalah lebih kreatif dalam menciptakan variasi makanan sehat. Kombinasi dengan makanan sehat asal negara lain juga bisa dijadikan pilihan.
+
+    Jangan lupakan kebiasaan sehat
+    Kebiasaan sehat yang sudah dibangun selama program penurunan berat badan harusnya tetap dilakukan meskipun sudah berhasil. Misalnya, sarapan sehat atau olahraga.
+
+    Pantau makanan
+    Catat makanan yang diasup setiap hari. Sehingga, ketika terjadi peningkatan berat badan kembali, dengan mudah Anda bisa mengetahui makanan apa yang patut disalahkan dan harus dihindari.
+
+    Tingkatkan intensitas olahraga
+    Studi menunjukkan orang yang berhasil menjaga berat badan adalah orang yang mampu tetap berolahraga di tengah kesibukannya. Agar tidak bosan, cobalah kelas aerobik baru atau jenis olahraga baru.
+"
+        android:gravity="center_vertical|center_horizontal"/>
+
+</LinearLayout>
